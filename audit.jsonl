@@ -1,0 +1,4 @@
+{"prompt_id": "prompt-001", "safety_rule": null, "action": "allowed"}
+{"prompt_id": "prompt-002", "safety_rule": "rule_jailbreak", "action": "blocked"}
+{"prompt_id": "prompt-003", "safety_rule": "rule_pii", "action": "blocked"}
+{"prompt_id": "prompt-004", "safety_rule": null, "action": "allowed"}
